@@ -106,6 +106,7 @@ Implements API rate limiting and daily usage caps to help manage infrastructure 
 | Security & Cost Control | API Rate Limiting and Daily Usage Caps |
 
 ---
+![Executive Echo Mobile View](screenshots/mobile-view.png)
 
 # 🧠 AI and Prompt Engineering Techniques
 
@@ -122,6 +123,7 @@ These include:
 The prompts are designed to guide the AI toward producing consistent and actionable project information.
 
 ---
+![Executive Echo Desktop View](screenshots/desktop-view.png)
 
 # 🔄 Project Workflow
 
