@@ -1,0 +1,30 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# API Keys and Secrets
+*.key
+secrets.json
+
+# Hugging Face
+.cache/
+
+# IDE
+.vscode/
+.idea/
